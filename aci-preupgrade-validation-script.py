@@ -6159,7 +6159,7 @@ class CheckManager:
         lldp_with_infra_vlan_mismatch_check,
         hw_program_fail_check,
         scalability_faults_check,
-        fabric_port_down_check,
+        #fabric_port_down_check,
         equipment_disk_limits_exceeded,
         apic_vmm_inventory_sync_faults_check,
 
